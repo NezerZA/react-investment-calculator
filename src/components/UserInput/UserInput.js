@@ -3,7 +3,7 @@ import classes from "./UserInput.module.css";
 
 const initialUserInput = {
   "current-savings": 0,
-  "yearly-contribution": 0,
+  "yearly-contribution": 50000,
   "expected-return": 7,
   duration: 10,
 };
