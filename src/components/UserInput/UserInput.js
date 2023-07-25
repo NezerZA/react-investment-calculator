@@ -2,8 +2,8 @@ import { useState } from "react";
 import classes from "./UserInput.module.css";
 
 const initialUserInput = {
-  "current-savings": 10000,
-  "yearly-contribution": 1200,
+  "current-savings": 0,
+  "yearly-contribution": 0,
   "expected-return": 7,
   duration: 10,
 };
